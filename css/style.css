@@ -1,0 +1,100 @@
+body{
+    margin: 2%;
+}
+.fm-1{
+    gap: 250px;
+    margin-left: 68%;
+    margin-top: -55px;
+}
+.h-1{
+    font-size: 70px;
+    font-weight: 600;
+}
+.text-end{
+    font-size: 20px;
+    margin-top: -55px;
+}
+.p-4{
+    margin-left: 50%;
+}
+.tx-1{
+    margin-top: 3%;
+}
+.im-1{
+    margin-top: 17%;
+}
+.txt-2{
+    margin-left: 783px;
+    margin-top: 8%;
+}
+.h-2{
+    margin-top: 6%;
+    font-size: 50px;
+}
+.h-3{
+    margin-top: 10%;
+}
+.txt-3{
+    margin-top: -6px;
+    font-size: 14px;
+}
+.txt-4{
+    margin-top: 25%;
+    font-size: 14px;
+}
+.h-4{
+    margin-top: 512px;
+}
+.txt-5{
+    margin-left: 81%;
+    margin-top: 59px;
+    font-size: 14px;
+}
+hr{
+    max-width: 46%;
+    margin-left: 54%;
+    color: black;
+}
+.txt-6{
+    margin-left: 58%;
+    margin-top: -59px;
+    font-size: 14px;
+}
+.img{
+    gap: 50px;
+}
+.img-1{
+    gap: 50px;
+    margin-top: 50px;
+}
+.ch-1{
+    margin-top: 6%;
+}
+.vector{
+    margin-left: 43%;
+    margin-top: 7%;
+}
+.block{
+    height:290px;
+    Border:2px Black solid
+}
+.text-center{
+    margin-top: 20px;
+}
+.the-1{
+    gap: 120px;
+}
+.img-2{
+    margin-top: 10%;
+}
+.fm-2{
+    margin-left: 45%;
+    margin-top: 15%;
+}
+.ms-0{
+    margin-top: 15%;
+    gap: 20%;
+}
+.m-4{
+    gap: 30%;
+}
